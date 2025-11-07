@@ -1,0 +1,5 @@
+Install Node.js by entering the command below in the terminal 
+$ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+
+Install Sass by entering the command below
+npm install -g sass
